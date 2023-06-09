@@ -1,9 +1,7 @@
 
 # Machine Learning Exploration
 
-During this capstione project, we did several Exploration in order to get the best result of the application.
-
-Several noted Exploration that we did are:
+During this capstione project, we did several Exploration in order to get the best result of the application. Several noted Exploration that we did are:
 
 
 ### GPT-Langchain Chatbot API
