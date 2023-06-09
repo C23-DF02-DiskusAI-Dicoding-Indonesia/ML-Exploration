@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Bar with Suggestions</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .container {
+            width: 400px;
+            padding-bottom: 150px;
+            opacity: 0;
+            animation: fade-in 0.5s ease-in-out forwards; /* Animasi fade-in */
+        }
+
+        @keyframes fade-in {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <div class="text-center">
+            <a href="/" class="btn btn-primary">Home</a>
+        </div>
+        <h1 class="text-center">diskus<span style="color: blue;">AI</span> SearchBar</h1>
+        
+        <div class="mb-3">
+            <input type="text" id="searchInput" class="form-control" placeholder="Enter your query">
+            <div id="suggestions" class="dropdown-menu" aria-labelledby="searchInput"></div>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            var typingTimer;
+            var doneTypingInterval = 500;
+            var input = $('#searchInput');
+            var apiUrl = 'https://searchbar-serving-shx4zogvqq-et.a.run.app/suggest';  // Modify this URL to match your backend API endpoint
+    
+            input.on('input', function() {
+                clearTimeout(typingTimer);
+                typingTimer = setTimeout(fetchSuggestions, doneTypingInterval);
+            });
+    
+            function fetchSuggestions() {
+                var query = input.val();
+                $.ajax({
+                    url: apiUrl,
+                    type: 'POST',
+                    contentType: 'application/x-www-form-urlencoded',
+                    data: { query: query },  // No need to convert data to x-www-form-urlencoded format, jQuery will handle it automatically
+                    success: function(data) {
+                        var suggestions = data.suggestions;
+                        var dropdown = $('#suggestions');
+                        dropdown.empty();
+                        if (suggestions.length > 0) {
+                            suggestions.forEach(function(suggestion) {
+                                dropdown.append('<button class="dropdown-item">' + suggestion + '</button>');
+                            });
+                            dropdown.addClass('show');
+                        } else {
+                            dropdown.removeClass('show');
+                        }
+                    }
+                });
+            }
+
+            // Handle click event on dropdown items
+            $('#suggestions').on('click', '.dropdown-item', function() {
+                var selectedSuggestion = $(this).text();
+                input.val(selectedSuggestion);
+                $('#suggestions').removeClass('show');
+            });
+        });
+    </script>
+  
+</body>
+</html>

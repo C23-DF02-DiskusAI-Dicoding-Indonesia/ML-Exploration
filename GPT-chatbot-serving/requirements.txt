@@ -1,0 +1,7 @@
+flask
+flask-restful
+flask-cors
+tensorflow
+tensorflow-hub
+langchain
+openai

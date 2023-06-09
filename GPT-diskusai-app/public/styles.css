@@ -1,0 +1,54 @@
+body {
+    background-color: #f8f9fa;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    opacity: 0; /* Set initial opacity to 0 */
+    animation: fade-in 1s forwards; /* Apply fade-in animation */
+    padding-bottom: 150px;
+  }
+
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .square-button {
+    width: 200px;
+    height: 200px;
+    border: none;
+    background-color: #007bff;
+    margin: 10px;
+    color: #fff;
+    transition: background-color 0.3s;
+    cursor: pointer;
+  }
+
+  .square-button:hover {
+    background-color: #0056b3;
+  }
+
+  .square-button:focus {
+    outline: none;
+  }
+
+  .btn-container {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  @media (max-width: 576px) {
+    .btn-container {
+      flex-direction: column;
+    }
+  }
+  

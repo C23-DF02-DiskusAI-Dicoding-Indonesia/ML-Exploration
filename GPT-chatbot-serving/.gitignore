@@ -1,0 +1,22 @@
+# Exclude virtual environment directories (e.g., created by virtualenv or pipenv)
+venv/
+env/
+.venv/
+
+# Exclude IDE and editor-specific files
+.idea/
+.vscode/
+*.pyc
+
+# Exclude any local configuration files
+config.py
+
+# Exclude log files
+*.log
+
+# Exclude Docker related files
+Dockerfile
+docker-compose.yml
+
+# Exclude any other files or directories you want to ignore
+apikey.py

@@ -1,0 +1,2006 @@
+{
+  "Mekanisme Belajar": {
+    "discussion_title": "Menulis Kode JavaScript Pertama",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/240805"
+  },
+  "Submission: Tugas Akhir Membuat Website": {
+    "discussion_title": "Apakah boleh elemen Aside untuk sosial media?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257590"
+  },
+  "Membuat Sticky Navigation": {
+    "discussion_title": "sticky navigation tidak berfungsi",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/210965"
+  },
+  "Menambahkan Gambar pada Halaman Profil": {
+    "discussion_title": "Assets.zip error",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/225330"
+  },
+  "Menggunakan Font dari Google Font": {
+    "discussion_title": "Apa perbedaan link dan import? mana yang lebih baik?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/183250"
+  },
+  "Persetujuan Hak Cipta": {
+    "discussion_title": "Test Capstone Project",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257650"
+  },
+  "Menetapkan Ukuran, Ketebalan, dan Perataan Teks pada Halaman Profil": {
+    "discussion_title": ".profile header tidak bekerja",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/186320"
+  },
+  "Latihan - Menerapkan localStorage pada Kalkulator": {
+    "discussion_title": "kenapa riwayat perhitungan tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/225000"
+  },
+  "Media Query": {
+    "discussion_title": "@media screen and (max-width: 1000px) {  #content,  aside {    width: 100%;    padding: 0;  }}",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/223720"
+  },
+  "Menerapkan JavaScript pada Web Kalkulator": {
+    "discussion_title": "JavaScript * HTML",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/224295"
+  },
+  "Menggunakan Div, Aside, Article, dan Section pada Konten": {
+    "discussion_title": "aside",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/247080"
+  },
+  "Tipe Web Storage": {
+    "discussion_title": "assala'alaikum bg",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/214375"
+  },
+  "Function": {
+    "discussion_title": "Kapan Fungsi Return dibutuhkan?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/176690"
+  },
+  "Perkenalan ke Web Storage": {
+    "discussion_title": "Seputar web storage",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/130717"
+  },
+  "Membuat berkas HTML Pertama": {
+    "discussion_title": "Permisi Izin bertanya, tentang MacOS itu harus di donwload dimana? ",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/164443"
+  },
+  "Menetapkan Float pada Content dan Aside": {
+    "discussion_title": "penggunaan * pada CSS",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/257425"
+  },
+  "Menerapkan Anchor pada Navigasi Halaman Profil": {
+    "discussion_title": "atribut id tidak ngelink ke atribut href",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/175590"
+  },
+  "Arrays dan Objek": {
+    "discussion_title": "array",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/181825"
+  },
+  "Menerapkan Card Style pada Elemen Article": {
+    "discussion_title": "Mengapa box shadow pada profile tidak sesuai dengan box shadow article",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/171818"
+  },
+  "Tipe Data": {
+    "discussion_title": "increment dan decrement",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/236730"
+  },
+  "Anchor, Emphasized Text, Important Text, dan Short Quotation": {
+    "discussion_title": "Perbedaan tag <b> dan element tag <strong>",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/232305"
+  },
+  "Arrow Function Expression": {
+    "discussion_title": "Konversi fungsi biasa ke fungsi arrow",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/198370"
+  },
+  "Melengkapi Fungsi getBook": {
+    "discussion_title": "permisi, saya mau bertanya untuk menampilkan data dari API",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/59114"
+  },
+  "Submission: Membuat Aplikasi Web dengan ES6, Custom Element, NPM, Module Bundler, dan AJAX": {
+    "discussion_title": "List tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257180"
+  },
+  "Ekspor dan Impor Modul pada Node.js": {
+    "discussion_title": "tanya [type]",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/82367"
+  },
+  "Property Accessor": {
+    "discussion_title": "Apa fungsi sebenarnya dari getter/setter ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/207090"
+  },
+  "Fungsi onFulfilled dan onRejected": {
+    "discussion_title": "Bagaimana fungsi resolvedValue mendapat nilai dari resolve?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/139642"
+  },
+  "Latihan: Membangun Layout Responsif pada Landing Page": {
+    "discussion_title": "background: orange tidak berfungsi ?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/122954"
+  },
+  "Keyword this pada Arrow Function": {
+    "discussion_title": "pemanggilan fungsi (contoh: setTimeout()) dengan/tanpa NEW pada reguler function",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/54914"
+  },
+  "Solusi: Menerapkan Shadow DOM pada Proyek Club Finder": {
+    "discussion_title": "Kenapa harus menaruh club-list style nya pada file css? kenapa tidak ditaruh pada shadowDOM?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/249035"
+  },
+  "Solusi: Menerapkan Fetch pada Proyek Club Finder": {
+    "discussion_title": "Apakah bisa menerapkan lebih dari 1 Fetch?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/247450"
+  },
+  "List": {
+    "discussion_title": "Kenapa atribut start pada ordered list tidak bisa digunakan pada type huruf dan romawi ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/121215"
+  },
+  "Method": {
+    "discussion_title": "Mengenai method pada startEngines",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/153424"
+  },
+  "Atribut dan Method pada Custom Element": {
+    "discussion_title": "cara buat export custome element",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/246170"
+  },
+  "Solusi: Arrow Function": {
+    "discussion_title": "Kurung Kurawal Pada Arrow Function",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/207600"
+  },
+  "ID Selector, Attribute Selector, dan Universal Selector": {
+    "discussion_title": "perbedaan",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/234800"
+  },
+  "Spreading Operator dan Rest Parameter": {
+    "discussion_title": "Menggunakan rest parameter untuk mengelompokkan array di awal atau di tengah",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/52474"
+  },
+  "Persiapan Proyek Latihan": {
+    "discussion_title": "kenapa tidak tampil isi foodListnya yaa ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/249860"
+  },
+  "Teks Terformat": {
+    "discussion_title": "Kalau ingin membuat sebuah kalimat di bawah gambar menggunakan fig caption atau paragraf?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/125957"
+  },
+  "Nested Custom Element": {
+    "discussion_title": "import statement",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/241435"
+  },
+  "Dasar Penggunaan Shadow DOM": {
+    "discussion_title": "shadowDOM",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/28932"
+  },
+  "Promise All": {
+    "discussion_title": "Fungsi isCoffeeMachineBusy pada checkStock",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/211575"
+  },
+  "Padding": {
+    "discussion_title": "Pusing kepala saya",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/127017"
+  },
+  "Latihan: Arrow Function": {
+    "discussion_title": "Apa kegunaan Data Source ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/49126"
+  },
+  "Solusi: Membuat club-list dan club-item Component": {
+    "discussion_title": "Kenapa pada club-list dan club-item tidak menggunakan method connectedCallback ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/208120"
+  },
+  "Solusi: Membuat search-bar Component": {
+    "discussion_title": "masih belum paham dengan this.render();  pada connectedCallback()",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/201380"
+  },
+  "Melengkapi Fungsi insertBook": {
+    "discussion_title": "kak kenapa data buku yang sudah diinsert ketika browsernya reload datanya hilang ya ?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/104482"
+  },
+  "Menangani Data yang Kompleks": {
+    "discussion_title": "kenapa pake titik(.) dan underscore(_)",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/241430"
+  },
+  "Menerapkan Positioning dan Float pada Halaman Profil": {
+    "discussion_title": "Saat penggunaan float pada elemen<aside>, elemen <footer> mengambil ruang sangat besar?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/163338"
+  },
+  "Penggunaan Shadow DOM pada Web Component": {
+    "discussion_title": "penerapan shadowDOM",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/129702"
+  },
+  "Latihan: Menerapkan Webpack pada Club Finder": {
+    "discussion_title": "file index.html tidak dibuat secara otomatis seperti bundle js + web tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/240165"
+  },
+  "Module": {
+    "discussion_title": "cara menjalankan node.js di windows",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/62849"
+  },
+  "Solusi: Menerapkan Webpack pada Club Finder": {
+    "discussion_title": "Failed to load resource: the server responded with a status of 404 (Not Found) ",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/246950"
+  },
+  "Solusi: Membuat app-bar Component": {
+    "discussion_title": "Kenapa app bar dan Search Bar Tidak Muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/250480"
+  },
+  "Menambahkan Aksi (Event) pada Elemen": {
+    "discussion_title": "Maksud kode innertext++ itu apa ya? ",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/176730"
+  },
+  "Memanipulasi Atribut Elemen": {
+    "discussion_title": "Gagal mempraktikkan memanipulasi atribut element",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/183340"
+  },
+  "Memasang Package dan Mengenal berkas package.json": {
+    "discussion_title": "isi package.json yang di coba dibuat tidak sama dengan apa yang ada di modul",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/59699"
+  },
+  "Loaders": {
+    "discussion_title": "Bagaimana cara load gambar di webpack?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/53204"
+  },
+  "Pendahuluan Pengenalan Kelas": {
+    "discussion_title": "Deadline",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/27967"
+  },
+  "Latihan: Menerapkan Custom Element pada proyek Club Finder": {
+    "discussion_title": "gimana fix nya ya? pada percobaan app-bar dan materi sebelumya sama saja",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/95522"
+  },
+  "Destructuring Array": {
+    "discussion_title": "Best way untuk destrukturisasi Array berdasarkan index dengan koma (,)",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/242615"
+  },
+  "Web APIs": {
+    "discussion_title": "Resources API Pablic",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/60559"
+  },
+  "Solusi: Destructuring Object": {
+    "discussion_title": "destructure objek, penamaan variabel",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/86122"
+  },
+  "Memasang dan Menggunakan Webpack": {
+    "discussion_title": "Muncul error pada file main.js",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/246160"
+  },
+  "Variabel": {
+    "discussion_title": "apakah salahnya dimana ya kak tolong ada y bisa bantu gak ya",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/183650"
+  },
+  "Manipulasi DOM": {
+    "discussion_title": "Saya bingung sama fungsi ini mas mohon penjelasanya",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/104888"
+  },
+  "Apa itu Class pada JavaScript": {
+    "discussion_title": "pemanggilan di method info",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/241145"
+  },
+  "Plugin": {
+    "discussion_title": "Mengapa menggunakan dash(-) untuk require(\"./console-log-on-build-webpack-plugin.js\");",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/58354"
+  },
+  "Menggunakan Plugin": {
+    "discussion_title": "Memecah file .html menjadi modular seperti React",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/194805"
+  },
+  "Mendapatkan Elemen": {
+    "discussion_title": "Kenapa mendeklrasikan variabel menggunakan DOM tidak dapat berjalan di text editor",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/208015"
+  },
+  "Gambar": {
+    "discussion_title": "Gambar tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/236510"
+  },
+  "Inheritance": {
+    "discussion_title": "Inheritance",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/173763"
+  },
+  "Identifikasi Elemen pada Halaman Website": {
+    "discussion_title": "Kak, apa bedanya <h> sama <h2> dan seterusnya.. Soalnya di script yg ada di modul ini aku liat ada",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/165583"
+  },
+  "Pendahuluan ECMAScript 6": {
+    "discussion_title": "Mengenai fungsi search",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/194705"
+  },
+  "Atribut HTML": {
+    "discussion_title": "ada yang bisa jelaskan perbedaan yang lebih sepesifik apa itu global atribut",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/227570"
+  },
+  "Generic Element": {
+    "discussion_title": "lebih bagus mana dalam penggunaan nya div/span",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/171663"
+  },
+  "AJAX menggunakan Fetch": {
+    "discussion_title": "Mengubah response objek menjadi JSON",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/127842"
+  },
+  "Border": {
+    "discussion_title": "hai kk kenapanya ketika saya mempraktikan border-width / border-left-width itu tidak ada perubahaan ",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/110862"
+  },
+  "Latihan AJAX menggunakan XHR pada Dicoding Books": {
+    "discussion_title": "cara membuat target url untuk XHR dan fetch",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/61439"
+  },
+  "Menambahkan meta tag viewport": {
+    "discussion_title": "Kenapa tidak elemen aside masih di samping kanan?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/217845"
+  },
+  "Menggunakan Package yang Terpasang pada Browser": {
+    "discussion_title": "CSS tidak termuat dengan baik",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/214085"
+  },
+  "Menerapkan Font Styling pada Halaman Profil": {
+    "discussion_title": "Bagaimana cara menyelesaikan tahap \"Menetapkan ukuran, ketebalan, dan alignment teks pada Halaman\"?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/30032"
+  },
+  "Memilih Jenis dan Ukuran Font": {
+    "discussion_title": "Bagaimana car import font digoogle terus dimasukan ke program?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/233770"
+  },
+  "Perkenalan JavaScript And DOM": {
+    "discussion_title": "DOM",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/160078"
+  },
+  "Menggunakan Loader": {
+    "discussion_title": "saya mencoba menginstall css-loader lewat npm, tapi malah jadi begini, ada yang tau solusinya?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/214340"
+  },
+  "Menerapkan Jumbotron dan Navigasi pada Header": {
+    "discussion_title": "Memperbaiki Posisi Background Jumbotron, nav & footer",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/223620"
+  },
+  "Kuis: JavaScript Basic dan Manipulasi DOM": {
+    "discussion_title": "kunci jawaban javascript",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/92795"
+  },
+  "Articles, Aside, dan Section": {
+    "discussion_title": "penulisan yang benar section dan article seperti apa?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/249285"
+  },
+  "Pengenalan ke HTML": {
+    "discussion_title": "Maksimal pengerjaan ujian ",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/254285"
+  },
+  "Citation, Defining Terms, Subscript, Superscript, Highlighted Text, dan Line Break": {
+    "discussion_title": "apakah elemen <em>...</em> dan <dfn>..</dfn> itu sama atau berbeda?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/170728"
+  },
+  "Alasan Flexbox Hadir": {
+    "discussion_title": "flexbox dan float dimana harus menggunakannya?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/201405"
+  },
+  "AJAX menggunakan XHR": {
+    "discussion_title": "dimana console devtool?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/52624"
+  },
+  "Menerapkan Elemen Tabel pada Halaman Profil": {
+    "discussion_title": "apa itu aside dan article?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/173783"
+  },
+  "Mengorganisasikan Konten pada Halaman Profil": {
+    "discussion_title": "Element Figure, apa dia?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/213350"
+  },
+  "Template Literals": {
+    "discussion_title": "Apa itu escape character?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/125612"
+  },
+  "Pendahuluan Module Bundler": {
+    "discussion_title": "Membuat Router | pindah antar halaman",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/157008"
+  },
+  "Menuliskan Syntax Javascript pada HTML": {
+    "discussion_title": "Cara membuat konten slide dan drop down JS?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/184180"
+  },
+  "Pengenalan Kelas": {
+    "discussion_title": "Perkenalan Diri",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/254485"
+  },
+  "Requirement Tools": {
+    "discussion_title": "Intall VS Code di Windows 7",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/215270"
+  },
+  "Membuat Berkas CSS": {
+    "discussion_title": "file css tidak ada di folder asset",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/204755"
+  },
+  "Menghubungkan Berkas CSS dengan HTML": {
+    "discussion_title": "File gambar tidak tampil & Background Footer tidak berubah warna",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/199415"
+  },
+  "Menghapus Package yang Terpasang": {
+    "discussion_title": "uninstall package",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/31647"
+  },
+  "Menjalankan Runner Scripts": {
+    "discussion_title": "Tanggal,Bulan dan Tahun tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/195535"
+  },
+  "Latihan AJAX menggunakan Fetch": {
+    "discussion_title": "TypeError: NetworkError when attempting to fetch resource.",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/240535"
+  },
+  "Server dan Client": {
+    "discussion_title": "akses website dengan IP Address",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/166953"
+  },
+  "Semantic HTML - Mengorganisasikan Halaman Konten": {
+    "discussion_title": "semantic meaningless",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/198265"
+  },
+  "Melengkapi Fungsi removeBook": {
+    "discussion_title": "Mau tanya arti dari coding ini ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/246835"
+  },
+  "Solusi: Module": {
+    "discussion_title": "AppBar tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/212665"
+  },
+  "Styling lebih Dalam": {
+    "discussion_title": "Menggunakan Fontawesome untuk icon web",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/110072"
+  },
+  "Callback Function": {
+    "discussion_title": "Penggunaan Callback",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/191990"
+  },
+  "Menetapkan ukuran pada gambar": {
+    "discussion_title": "Ukuran Gambar Terlalu Besar",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/204725"
+  },
+  "Dasar-Dasar dan Terminologi Flexbox": {
+    "discussion_title": "flex item dan flex container",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/160408"
+  },
+  "Special Character": {
+    "discussion_title": "mindset untuk seorang website developer",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/33152"
+  },
+  "Menerapkan Styling Dasar pada Halaman Profil": {
+    "discussion_title": "Mengapa styling yang sudah dibuat pada berkas css tidak berubah saat dibuka di browser?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/122889"
+  },
+  "Floating": {
+    "discussion_title": "Posisi Element Aside Tidak Berpindah Saat Menerapkan Positioning dan Float pada Halaman Profil",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/229785"
+  },
+  "Pseudo Selector": {
+    "discussion_title": "Apakah Pseudo class sama dengan library  yang kita gunakan pada bahasa pemograman?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/218945"
+  },
+  "Permasalahan Penerapan Float": {
+    "discussion_title": "Penerapan height pada permasalahan floating",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/163263"
+  },
+  "Latihan: Menerapkan Fetch pada Proyek Club Finder": {
+    "discussion_title": "Gambar poster dari themoviedb",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/51944"
+  },
+  "Mengamati Nilai Atribut": {
+    "discussion_title": "Lebih unggul menggunakan yg mana",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/150333"
+  },
+  "Menjalankan Potongan Kode": {
+    "discussion_title": "tidak muncul gambar pada proyek club finder",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/244680"
+  },
+  "Latihan - Menambahkan Riwayat Kalkulasi pada Web Kalkulator": {
+    "discussion_title": "History Calculator tidak muncul??",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/187425"
+  },
+  "Membuat Berkas Konfigurasi": {
+    "discussion_title": "main.js too big , bagaimana splitting ? ",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/134907"
+  },
+  "Formatting Text (Text dan Font Styling)": {
+    "discussion_title": "apa yang di maksud styling font dan tex",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/228165"
+  },
+  "Selector Basic, Type Selector, dan Class Selector": {
+    "discussion_title": "selector",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/179455"
+  },
+  "Combinators: Child Selector dan Descendant Selector": {
+    "discussion_title": "apakah dalam descendant selector elemen <section> dibutuhkan?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/86762"
+  },
+  "Anatomi Website": {
+    "discussion_title": "Penggunaan HTML, CSS, Javascript",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/225405"
+  },
+  "Melampirkan Styling pada Dokumen HTML": {
+    "discussion_title": "permisi ka, saya ingin bertanya untuk pengenalan css,",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/192165"
+  },
+  "Text Styling: Line Height, Text Indent, dan Text Alignment": {
+    "discussion_title": "Penggunaan CSS Text-align",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/228940"
+  },
+  "Default Parameters": {
+    "discussion_title": "Fungsi menghasilkan undefined walau tidak memberi value pada parameter",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/34326"
+  },
+  "Latihan: Template literals": {
+    "discussion_title": "Halo kakak-kakak,apakah benar syntax yang saya lakukan ini?? mohon bantuanya,terima kasih",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/34411"
+  },
+  "Solusi: Class": {
+    "discussion_title": "kenapa menggunakan function bukan tanda sama dengan (=) ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/34611"
+  },
+  "Header, Footer, Main dan Nav": {
+    "discussion_title": "footer tidak mau berada di bawah",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/187495"
+  },
+  "Latihan: Landing Page Dicoding Indonesia": {
+    "discussion_title": "Css pada landing page dicoding indonesia",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/229305"
+  },
+  "HTML lebih Dalam": {
+    "discussion_title": "Nilai setiap ujian ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/254960"
+  },
+  "Sintaks Ekspor dan Impor pada ES6 Module": {
+    "discussion_title": "Error Js , Console saat akses HTML",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/93955"
+  },
+  "Sintaks Async/Await": {
+    "discussion_title": "Mencoba callback approach.",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/56514"
+  },
+  "Custom Element": {
+    "discussion_title": "custom elemen",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/82232"
+  },
+  "Struktur Dasar HTML": {
+    "discussion_title": "Kok gabisa dirunning ya kak? Mohon bantuannya",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/204675"
+  },
+  "Membuat dan Menambahkan Elemen Baru": {
+    "discussion_title": "Tidak dapat membuat elemen baru",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/170783"
+  },
+  "Destructuring Object dan Array": {
+    "discussion_title": "Destructuring",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/173148"
+  },
+  "Promise Berantai": {
+    "discussion_title": "hasil eksekusi catch() dan .then(null, handleFailure)",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/209970"
+  },
+  "Shadow DOM": {
+    "discussion_title": "import javascript bootstrap pada shadow DOM",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/195475"
+  },
+  "Menetapkan Elemen Header, Main, dan Footer": {
+    "discussion_title": "Posisi header",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/165108"
+  },
+  "Solusi: Promise": {
+    "discussion_title": "Mengganti Class DaraSources menjadi sebuah Fungsi ",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/240695"
+  },
+  "Menulis Custom Element Pertama": {
+    "discussion_title": "Image ndak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/129522"
+  },
+  "Display Roles": {
+    "discussion_title": "Meta charset",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/111637"
+  },
+  "Implementasi Flexbox pada Halaman Profil Bandung": {
+    "discussion_title": "kenapa pakai .flex-column ? tidak .flex-row saja ?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/181790"
+  },
+  "Mode Strict pada JavaScript": {
+    "discussion_title": "Fungsi atau kegunaan dari mode strict pada JavaScript untuk apa ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/147753"
+  },
+  "Text dan Background Color": {
+    "discussion_title": "fungsi #content > h2",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/159328"
+  },
+  "Table": {
+    "discussion_title": "cara agar ukuran dua table dalam satu web berbeda (tidak sinkron) bagaimana ya",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/180815"
+  },
+  "Materi yang akan Dipelajari": {
+    "discussion_title": "Modul",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/104436"
+  },
+  "CORS": {
+    "discussion_title": "Bolehkah menggunakan CORS Anywhere untuk API publik yang terkendala CORS ?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/137477"
+  },
+  "Parameter dan Block Body pada Arrow Function": {
+    "discussion_title": "mengapa harus menggunakan return?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/65427"
+  },
+  "Quiz: Mengorganisasikan Halaman Konten": {
+    "discussion_title": "Kenapa tidak bisa melanjutkan ke materi berikutnya?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/38946"
+  },
+  "Apa itu Package Manager": {
+    "discussion_title": "Apa perbedaan antara module, package, dan library?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/39156"
+  },
+  "Static Method": {
+    "discussion_title": "Penjelasan static method lebih lanjut ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/240750"
+  },
+  "Mengonfigurasi Webpack berdasarkan Environment": {
+    "discussion_title": "Live Server tidak berfungsi",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/132937"
+  },
+  "Mengubah fungsi deleteBook": {
+    "discussion_title": "removeBook() Versi Async/Await Tidak Ada",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/208885"
+  },
+  "Properti-Properti pada Flex Items": {
+    "discussion_title": "Kenapa selalu menggunakan unit rem, bukan px?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/255490"
+  },
+  "Comment": {
+    "discussion_title": "Apakah fitur komentar yang ada di HTML, CSS, dan JS sama saja bisa digunakan salah satunya?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/182225"
+  },
+  "Operator Penugasan": {
+    "discussion_title": "situs  https://glot.io/snippets/fi5zpzsh6w , tidak bisa di akses ",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/40426"
+  },
+  "Loop": {
+    "discussion_title": "Maksud dari ECMAScript ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/255145"
+  },
+  "Variabel Scope": {
+    "discussion_title": "scope variable",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/132432"
+  },
+  "Promise berantai menggunakan async/await": {
+    "discussion_title": "Perlukah deklarasi variable baru di setiap 'await'?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/210675"
+  },
+  "Knowledge Check: Node Package Manager dan Webpack": {
+    "discussion_title": "Jika pada tools lain, Webpack loaders berperan mirip seperti ...",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/50199"
+  },
+  "Mencoba Web API menggunakan Postman": {
+    "discussion_title": "mengenai postman dekstop",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/154318"
+  },
+  "ES6 Module": {
+    "discussion_title": "import module menggunakan ES6",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/250465"
+  },
+  "Pendahuluan Web Components": {
+    "discussion_title": "Best practice dari web component bagaimana ya?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/139637"
+  },
+  "Solusi: Deklarasi Variabel": {
+    "discussion_title": "Mengapa hasil gambar tidak muncul setelah mengubah variabel menjadi const ? ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/204435"
+  },
+  "Apa itu Webpack": {
+    "discussion_title": "Cara melakukan debug pada main.js",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/152258"
+  },
+  "Materi yang Dipelajari": {
+    "discussion_title": "local host tidak bisa saat webpack dipasang",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/256170"
+  },
+  "Positioning": {
+    "discussion_title": "Cara bookmark materi bagaimana?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/175040"
+  },
+  "If/Else Statement": {
+    "discussion_title": "mengembalikan nilai",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/253130"
+  },
+  "Prasyarat Kemampuan": {
+    "discussion_title": "bagaimana membuat navbar dia atas image ",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/185680"
+  },
+  "CSS Conception": {
+    "discussion_title": "apakah boleh menggunakan animasi transisi menggunakan css?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/176500"
+  },
+  "Siklus Hidup dari Custom Element": {
+    "discussion_title": "Consol browser tidak menampilkan aktivitas apa pun",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/241075"
+  },
+  "Latihan - Menerapkan Styling pada Tabel Riwayat Web Kalkulator": {
+    "discussion_title": "Penerapan pseudoselector pada tabel riwayat",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/170533"
+  },
+  "Prasyarat Tools": {
+    "discussion_title": "Apakah boleh menggunakan CSS Framework seperti Bootstrap untuk tugas Bookshelf app?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/187530"
+  },
+  "Regular Function versus Arrow Function": {
+    "discussion_title": "Maaf kak, maksud dari cuplikan kode berikut apa ya?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/51484"
+  },
+  "Menulis Rules pada Berkas CSS": {
+    "discussion_title": "tidak ada perubahan pada profil HTML",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/254440"
+  },
+  "Melengkapi Fungsi updateBook": {
+    "discussion_title": "localhost:8080 says \"check your internet connection\" ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/245130"
+  },
+  "Membuat Objek Promise": {
+    "discussion_title": "Best practice penggunaan callback / promise itu sebaiknya pada saat apa ya?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/138982"
+  },
+  "Promise": {
+    "discussion_title": "Bagaimana cara untuk lebih memahami Asynchronous Process?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/53344"
+  },
+  "Mode": {
+    "discussion_title": "Cara kerja (env, argv)",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/196915"
+  },
+  "Pengenalan ke Styling": {
+    "discussion_title": "Styling",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/176705"
+  },
+  "Solusi: Template literals": {
+    "discussion_title": "mengapa harus ada double quote dan singel quote di sini",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/65167"
+  },
+  "Apa itu Web Component": {
+    "discussion_title": "Install live server di vscode",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/46856"
+  },
+  "Menuliskan Aturan Styling": {
+    "discussion_title": "font",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/109382"
+  },
+  "Text Styling: Text Decoration, Text Transform, Text Spacing, dan Text Shadow": {
+    "discussion_title": "Penyisipan text styling ditengah paragraf",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/166463"
+  },
+  "Webpack Dev Server": {
+    "discussion_title": "error saat run start-dev ",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/59619"
+  },
+  "Submission: Katalog Restoran": {
+    "discussion_title": "Mengulang Project",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257045"
+  },
+  "Heading": {
+    "discussion_title": "Nav dan header",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/106103"
+  },
+  "Constructor": {
+    "discussion_title": "Mengapa engineActive tidak dimasukkan dalam argumen pada constructor class Car?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/51014"
+  },
+  "Latihan: Promise": {
+    "discussion_title": "Contoh implementasi nyata penggunaan promise",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/51069"
+  },
+  "Destructuring Object": {
+    "discussion_title": "block statement",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/253270"
+  },
+  "Box Model": {
+    "discussion_title": "Kenapa image pada tampilan tidak bisa penuh seperti pada contoh?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/85507"
+  },
+  "Menerapkan Box Model pada Halaman Profil": {
+    "discussion_title": "kenapa logo di web aku tidak mengecil.",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/184750"
+  },
+  "Menerapkan Styling pada Custom Element tanpa Shadow DOM": {
+    "discussion_title": "tidak tampil ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/248965"
+  },
+  "Submission: Katalog Restoran + PWA": {
+    "discussion_title": "Mengapa tiba-tiba request ke API dicoding restaurant selalu pending?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/258135"
+  },
+  "Membuat Berkas JavaScript Pertama": {
+    "discussion_title": "increment (++) dan decrement (--)",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/104781"
+  },
+  "ESLint": {
+    "discussion_title": "kak kenapa eslint ketika di save balik lagi jadi error?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/254230"
+  },
+  "Class": {
+    "discussion_title": "cara menyimpan method pada constructor",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/65617"
+  },
+  "Kutangkap Bugs Dengan Jaring Pengaman": {
+    "discussion_title": "Error: Expected null to be truthy",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/113472"
+  },
+  "Jagalah Kebersihan": {
+    "discussion_title": "kode unlikeMovieSpec.js error",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/56579"
+  },
+  "Submission: Katalog Restoran PWA + Testing and Optimized": {
+    "discussion_title": "I.click Tidak Berfungsi",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/238145"
+  },
+  "Knowledge Check: JavaScript Asynchronous Request": {
+    "discussion_title": "Bagaimana best pratice membagi fungsionalitas back end dan front end ? ",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/85552"
+  },
+  "Segitiga Sama Sisi": {
+    "discussion_title": "Parameter didalam Expect",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/57209"
+  },
+  "Mengubah fungsi insertBook": {
+    "discussion_title": "Kurang paham sama Header",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/196715"
+  },
+  "Quiz: Inline Formatting": {
+    "discussion_title": "Apakah HTML elemen dengan atribut tidak sama ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/58564"
+  },
+  "Mengubah Method, Menetapkan Header Property, dan Menetapkan Data pada Body Request menggunakan Fetch": {
+    "discussion_title": "Mengapa hasil fetch hanya berupa Promise {}",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/59989"
+  },
+  "Properti-Properti pada Flex Container": {
+    "discussion_title": "flex grow",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/160413"
+  },
+  "Quiz : Struktur Dasar HTML": {
+    "discussion_title": "apakah bisa beri penjelasan tentang quiz : struktur dasar HTML",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/60419"
+  },
+  "Forum Diskusi": {
+    "discussion_title": "Halo Salam Kenal ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/253710"
+  },
+  "SOLID: Liskov Substitution Principle, Interface Segregation Principle, Dependencies Inversion Principle": {
+    "discussion_title": "Detail yang dimaksud dalam Dependency Injection pada modul kelas",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/203645"
+  },
+  "Apa itu Website?": {
+    "discussion_title": "Pertanyaan mengenai Web Server",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/256765"
+  },
+  "Quiz: Formatting Text": {
+    "discussion_title": "saya tidak bisa melanjutkan modul?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/60969"
+  },
+  "Relative Positioning": {
+    "discussion_title": "CCS POSiTION",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/61003"
+  },
+  "Quiz : Membuat Berkas HTML Pertama": {
+    "discussion_title": "susah,, krn bukan bidang saya,,",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/61004"
+  },
+  "Apa itu Promise": {
+    "discussion_title": "Apa maksud dari penggunaan promise bisa menggantikan callback",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/61014"
+  },
+  "Knowledge Check: ECMAScript 6 dan Web Component": {
+    "discussion_title": "Melihat Hasil Exam",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/61364"
+  },
+  "Perbedaan Static Flow dan Non-Static Flow": {
+    "discussion_title": "Apa itu nilai relatif, absolute, dan fixed pada non static flow?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/62379"
+  },
+  "Bundle Analyzer": {
+    "discussion_title": "Bundle Proyek",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/63891"
+  },
+  "[Obsolate] Latihan: Tampilan Responsif pada Mobile": {
+    "discussion_title": "Apa perbedaan secara jelas melalui gambar menggunakan meta viewport ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/213685"
+  },
+  "SOLID: Single Responsibility Principle, Open/Closed Principle": {
+    "discussion_title": "Kegunaan statement pada constructor class Shipping",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/63386"
+  },
+  "Kenalkan, saya Codecept": {
+    "discussion_title": "InjectManifest has been called multiple times",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/232190"
+  },
+  "Membuat/Membuka Database dan Object Store": {
+    "discussion_title": "Optional Parameter pada Method createObjectStore()",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/64422"
+  },
+  "Operator Komparasi": {
+    "discussion_title": "makna dari operator logika dan operasi logika",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/64552"
+  },
+  "Centering Content": {
+    "discussion_title": "fungsi dari <meta charset=\"UTF-8\"> dalam head",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/175640"
+  },
+  "Kuis: Web Storage": {
+    "discussion_title": "kenapa harus baut file.js baru?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/113827"
+  },
+  "Deklarasi Variabel": {
+    "discussion_title": "Replit Tidak Berjalan",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/207440"
+  },
+  "Menyiapkan Fungsi Operations DB": {
+    "discussion_title": "tentang transaction",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/65327"
+  },
+  "onRejected menggunakan Catch Method": {
+    "discussion_title": "mengapa harus menetapkan nilai null pada parameter method untuk menetapkan rejected handler?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/66477"
+  },
+  "Image Responsive": {
+    "discussion_title": "How to Reactive image as css background. ",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/125907"
+  },
+  "Menyesuaikan Padding dan Margin pada Body dan Elemen Main": {
+    "discussion_title": "tujuan menerapkan margin dan padding 0 pada body",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/182220"
+  },
+  "Menetapkan Nilai Warna": {
+    "discussion_title": "apakah bisa membuat dua warna di grup yang sama",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/68387"
+  },
+  "Pengenalan Aksesibilitas": {
+    "discussion_title": "Ukuran font size link berapa? ",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/84532"
+  },
+  "Image Optimization": {
+    "discussion_title": "Imagemin ",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/71062"
+  },
+  "Memberikan Fungsionalitas pada Tombol Like": {
+    "discussion_title": "Tombol like tidak muncul dan ada error pada console tentang innerHTML",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/206495"
+  },
+  "Elemen dan Atribut pada Tabel": {
+    "discussion_title": "Penggunaan <thead>, <tbody>, <tfoot>.",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/173058"
+  },
+  "Melakukan Request dari API": {
+    "discussion_title": "Keyword static pada Class untuk method?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/212475"
+  },
+  "Latihan: Destructuring Object": {
+    "discussion_title": "mengapa data description tidak bisa dipanggil ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/76431"
+  },
+  "Konfigurasi Webpack": {
+    "discussion_title": "error saat npm run start-dev",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/125292"
+  },
+  "Latihan: Notifikasi": {
+    "discussion_title": "Kenapa setiap 10 detik?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/215375"
+  },
+  "Kasus 5: End-to-End Testing": {
+    "discussion_title": "E2E",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/236025"
+  },
+  "Konfigurasi Drawer": {
+    "discussion_title": "mengapa footer tidak ada di app shell",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/232100"
+  },
+  "Yang Kucari Akhirnya Tiba": {
+    "discussion_title": "Undefined to equal Object",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/230150"
+  },
+  "Ujian Akhir": {
+    "discussion_title": "Sertifikat",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/251250"
+  },
+  "Latihan: Menerapkan Responsive Layout": {
+    "discussion_title": "Tampilan tidak berubah setelah ditambahkan resposive layout",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/85377"
+  },
+  "Kuis: Pendahuluan": {
+    "discussion_title": "untuk pertanyaan pada kuis apa tidak bisa melihat pembahasannya? agar bisa dikoreksi ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/165878"
+  },
+  "Kuis: Pengenalan HTML": {
+    "discussion_title": "Apa itu Back-End Web Developer",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/92063"
+  },
+  "Pengenalan Flexbox": {
+    "discussion_title": "Kok enggak muncul ya, flexbox saya?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/172733"
+  },
+  "Jangan Bertele-tele": {
+    "discussion_title": "apa maksud pengguanaan dari reduce dan concat",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/105355"
+  },
+  "Box Dimensions": {
+    "discussion_title": "min-width tidak ada perubahan pada browser mengapa ?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/145552"
+  },
+  "Kuis: Pengenalan CSS": {
+    "discussion_title": "Pada soal kuis saya tidak menemukan jawabannya",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/176315"
+  },
+  "Kuis Coding : Logika Operator dan If Else": {
+    "discussion_title": "mengapa hasilnya undefined dan else yang jalan ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257470"
+  },
+  "Kuis Coding : Object": {
+    "discussion_title": "Kode error mohon bantuannya",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/256950"
+  },
+  "Kuis Coding : Variabel dan Tipe Data": {
+    "discussion_title": "Kak mengapa kode saya tetap masih eror ya padahal udah saya coba perbaiki berkali-kali",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/245985"
+  },
+  "Kuis Coding : Module": {
+    "discussion_title": "ada grup untuk diskusi lebih lg kah mentog bgt di sini",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257905"
+  },
+  "Kuis Coding : Function": {
+    "discussion_title": "Ini outputnya sudah betul, tapi sistem deteksi salah kenapa ya. padahal sudah di return.",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/257740"
+  },
+  "Kuis Coding : Penanganan Eror": {
+    "discussion_title": "Unexpected end of input",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/257635"
+  },
+  "Kuis Coding : Functional Programming": {
+    "discussion_title": "Output sudah sesuai tapi tidak bisa submit",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/257870"
+  },
+  "Knowledge Check : Penanganan Eror": {
+    "discussion_title": "ada error pada saat dijalankan",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/244165"
+  },
+  "Browser Object": {
+    "discussion_title": "kenapa saat saya ketik alert() pada console,hasilnya tidak sama seperti pada penjelasan?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/162073"
+  },
+  "Kuis Coding : Map": {
+    "discussion_title": "Error NaN",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/248410"
+  },
+  "Closure": {
+    "discussion_title": "Kak saya ada typo dimana kak sistemnya masih bilang kode salah",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/245325"
+  },
+  "Knowledge Check : Module": {
+    "discussion_title": "\"Pastikan Anda sudah membuat mengekspor class Tiger dan Wolf\"",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/205440"
+  },
+  "Set": {
+    "discussion_title": "Destructing Set",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/91895"
+  },
+  "Pengenalan Fundamentals JavaScript": {
+    "discussion_title": "Node.js di laragon",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/249935"
+  },
+  "Variable": {
+    "discussion_title": "Mengapa variabel 'var' rawan terhadap bug?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/251400"
+  },
+  "WeakMap & WeakSet": {
+    "discussion_title": "Weakmap dan weakset",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/253385"
+  },
+  "Kuis Koding: Asynchronous Proses secara Berantai": {
+    "discussion_title": "Izin kak/bang",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257845"
+  },
+  "Pengenalan Penanganan Eror": {
+    "discussion_title": "Saya sudah mencari digrup tapi tidak ngesolve. Ini ya kak ada yang bisa bantu",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/201505"
+  },
+  "Properti dan Method": {
+    "discussion_title": "Masih belum paham alur get dan set berikut:",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/249110"
+  },
+  "Custom Error": {
+    "discussion_title": "Fungsi validateNumberInput harus throw ValidationError dengan pesan \\\"Argumen pertama harus number\\\"",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/234550"
+  },
+  "Pengenalan JavaScript": {
+    "discussion_title": "kuis if else",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/253485"
+  },
+  "Object": {
+    "discussion_title": "Kenapa hasilnya berbeda?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/253055"
+  },
+  "Membuat Project JavaScript": {
+    "discussion_title": "Terdapat error saat menjalankan perintah npm init pada terminal visual studio",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/235180"
+  },
+  "Kuis Coding : Array": {
+    "discussion_title": "fungsi code push pada array",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/258095"
+  },
+  "Declaring Function": {
+    "discussion_title": "Output",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/253720"
+  },
+  "Dasar JavaScript": {
+    "discussion_title": "file java script",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/162573"
+  },
+  "Pengenalan Setup Environment": {
+    "discussion_title": "tidak bisa npm init di terminal vscode",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/236065"
+  },
+  "Menulis Kode JavaScript Pertama": {
+    "discussion_title": "Tidak dapat melanjutkan ke modul selanjutnya.",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/254155"
+  },
+  "Asynchronous Handling dengan Sintaks Async dan Await": {
+    "discussion_title": "bagaimana cara menyimpan hasil output async await pada variabel",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/220025"
+  },
+  "Array": {
+    "discussion_title": "Index terakhir array selalu jumlah nilai array - 1. ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/256460"
+  },
+  "Pengantar Object-Oriented Programming di JavaScript": {
+    "discussion_title": "Rest Parameter",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/228755"
+  },
+  "Constructor Function": {
+    "discussion_title": "maksud dari code ini",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/227555"
+  },
+  "Map": {
+    "discussion_title": "Map Has",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/249025"
+  },
+  "Pengenalan Functional Programming": {
+    "discussion_title": "ASK - Destructuring Objek",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/90955"
+  },
+  "Memanipulasi Konten Elemen": {
+    "discussion_title": "Cara memanipulasi konten/menambahkan konten",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/138787"
+  },
+  "Built-in Class": {
+    "discussion_title": "mohon penjelasannya bang",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/216775"
+  },
+  "Pengenalan Function": {
+    "discussion_title": "error ketika submit submission function pada modul Kuis Coding: Function",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/239120"
+  },
+  "Knowledge Check : Fundamental JavaScript": {
+    "discussion_title": "Maaf, kode yang Anda kirimkan belum berfungsi. Silakan perbaiki dahulu kemudian kirimkan kembali.",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/222955"
+  },
+  "Knowledge Check : Asynchronous Process": {
+    "discussion_title": "help bg",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/197145"
+  },
+  "Instalasi Node.js dengan NVM": {
+    "discussion_title": "versi node.js",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/218375"
+  },
+  "Node.js": {
+    "discussion_title": "output saya salah begini dalam menggunakan var,let,const gimana ya ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/138477"
+  },
+  "Using Package": {
+    "discussion_title": "Cara kerja sesungguhnya dari path ./ dalam mengimport (module sendiri vs module package)",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/219780"
+  },
+  "Menjalankan Project Node": {
+    "discussion_title": "tidak bisa langsung run langsung di terminal ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/204805"
+  },
+  "Pengenalan Struktur Data": {
+    "discussion_title": "Kenapa console.log menampilkan 2 jenis tampilan yang berbeda?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/106722"
+  },
+  "Pengujian Kode": {
+    "discussion_title": "saya rasa ada yang tidak tepat dan sesuai atau saya yang salah ",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/243035"
+  },
+  "Asynchronous Handling dengan Callback": {
+    "discussion_title": "parameter error pada function usersCallback(error, users) didapat darimana, Kak?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/245125"
+  },
+  "Object Composition": {
+    "discussion_title": "Bagaimana cara menetapkan properties tidak pada semua class/child class (di OBJECT COMPOSITION)",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/227965"
+  },
+  "Promise Static Method": {
+    "discussion_title": ".then & .catch pada function",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/218035"
+  },
+  "Pewarisan": {
+    "discussion_title": "argumen THIS pada code tersebut mengambil dari mana ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/245615"
+  },
+  "Reusable Function": {
+    "discussion_title": "Return pada Array Map",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/251825"
+  },
+  "Knowledge Check : Function": {
+    "discussion_title": "maksudnya for value itu apa ya",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/248000"
+  },
+  "Konsep-Konsep Functional Programming": {
+    "discussion_title": "apa maksud action(arr[index])",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/230945"
+  },
+  "Pengantar Asynchronous Process": {
+    "discussion_title": "Pertanyaan terkatin Code pada Callback ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/229880"
+  },
+  "Export & Import": {
+    "discussion_title": "kenapa harus menggunakan coffestock ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/225500"
+  },
+  "Try and Catch": {
+    "discussion_title": "Error parameter/variable",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/239275"
+  },
+  "Membuat Proyek JavaScript menggunakan NPM": {
+    "discussion_title": "npm run star-dev errorr???",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/93915"
+  },
+  "Memasang Node.js dan NPM": {
+    "discussion_title": "Error pada saat mengecek npm version",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/154363"
+  },
+  "Installing Packages": {
+    "discussion_title": "Install Packages",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/245375"
+  },
+  "Knowledge Check : Struktur Data": {
+    "discussion_title": " Jawaban-nya salah",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/219530"
+  },
+  "Overriding": {
+    "discussion_title": "super(phoneNumber);",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/215245"
+  },
+  "Kuis Koding: Mengubah Fungsi Asynchronous Callback-Based Menjadi Promise-Based": {
+    "discussion_title": "ini saya errornya dimana yaa kak, stuck bangett",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/255980"
+  },
+  "Kuis: Layout Responsif dengan Flexbox": {
+    "discussion_title": "Responsive Mobile",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/132052"
+  },
+  "Object-Oriented Programming": {
+    "discussion_title": "function",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/210265"
+  },
+  "Latihan: Menerapkan Teks Optimisasi dan Off Canvas Menu": {
+    "discussion_title": "error pada off canvas",
+    "link_diskusi": "https://www.dicoding.com/academies/565/discussions/250105"
+  },
+  "Mencoba Screen Reader": {
+    "discussion_title": "Bagaimana Cara Mematikan Screen Reader ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/97212"
+  },
+  "Objek dan Struktur Data": {
+    "discussion_title": "fungsi underscore di variable maxSpeed",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/97279"
+  },
+  "Kuis Coding: Object Oriented Programming": {
+    "discussion_title": "Kenapa myEagle selalu salah",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/251670"
+  },
+  "Kuis: Pendalaman HTML": {
+    "discussion_title": "Tolong tampilkan di mana jawaban saya yang salah saat ada quiz",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/126202"
+  },
+  "Function Parameter": {
+    "discussion_title": "Rest parameter",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/230250"
+  },
+  "Memasang Dependencies": {
+    "discussion_title": "Pertanyaan tentang devDepencies dan Depencies",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/137117"
+  },
+  "Menerapkan Cache pada Service Worker": {
+    "discussion_title": "cache-helper",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/227065"
+  },
+  "Implementasi Web Storage - Memodifikasi Item Storage": {
+    "discussion_title": "Value dari \"Jumlah tebakan salah\" tidak berubah",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/201055"
+  },
+  "Submission Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage": {
+    "discussion_title": "sudah dikasih local storage masi belum bisa nyimpan",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/247690"
+  },
+  "Throwing Errors": {
+    "discussion_title": "argumen salah padahal penulisan sudah mengikuti perintah",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/205035"
+  },
+  "Menambahkan Fungsi Memuat Data Ketika Todo Apps Dibuka": {
+    "discussion_title": "Mohon bantuannya kak, Mengenai Web Storage",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/191455"
+  },
+  "Mengenal Statement dan Expression dengan Menulis Kode JavaScript Pertama": {
+    "discussion_title": "Membedakan Statement dan Expressions",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/188025"
+  },
+  "Implementasi Web Storage - Menyimpan Data Kompleks pada Storage menggunakan objek JSON": {
+    "discussion_title": "Perbedaan fungsi JSON.parse() dan JSON.stringify() apa ya ?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/214875"
+  },
+  "Switch Case Statement": {
+    "discussion_title": "Fungsi null disini buat apa ya? - Switch Case Statement -",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/200905"
+  },
+  "Variable Scope": {
+    "discussion_title": "Penggunaan const pada function",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/232255"
+  },
+  "Membangkitkan Custom Event": {
+    "discussion_title": "custom event tidak berjalan diklik dan ada error 3 ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257255"
+  },
+  "Heading dan Landmarks": {
+    "discussion_title": "Penggunaan h1",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/100286"
+  },
+  "Latihan: Service Worker": {
+    "discussion_title": "Add to Home Screen",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/253790"
+  },
+  "Input Event - onInput, onFocus, dan onBlur": {
+    "discussion_title": "Tidak muncul sisa karakter",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/190930"
+  },
+  "Mengubah Konten HTML - Memanipulasi Atribut Melalui setAttribute()": {
+    "discussion_title": "gimana cara save hasil manipulasi elemen di console.. ",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/189720"
+  },
+  "Local Storage": {
+    "discussion_title": "Counter ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257360"
+  },
+  "Mencari DOM (Mendapatkan DOM)": {
+    "discussion_title": "File latihan ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/228035"
+  },
+  "Menambahkan Event Handler - Membuat event handler onclick": {
+    "discussion_title": "eksekusi function tanpa ()",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/224745"
+  },
+  "Menambahkan Custom Event": {
+    "discussion_title": "kenapa ketika diclick 'button' caption tetap tidak berubah ya min? ",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/189840"
+  },
+  "Pengenalan Latihan: Landing Page Dicoding Indonesia": {
+    "discussion_title": "font inherited",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/229155"
+  },
+  "Knowledge Check : Object-Oriented Programming (OOP)": {
+    "discussion_title": "Kesalahan Pada Kode Padahal Sudah Bisa di Runn",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/227550"
+  },
+  "Pengenalan Module": {
+    "discussion_title": "kode masih error",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/205280"
+  },
+  "Mengunduh Starter Project, Membuat Berkas JavaScript, dan Menampilkan Todo pada Console": {
+    "discussion_title": "Kode tidak berjalan seperti di modul dan eror di console",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/257950"
+  },
+  "Ringkasan Testing Automatis": {
+    "discussion_title": "Automate testing",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/103416"
+  },
+  "Pengertian dan Fungsi Web Storage": {
+    "discussion_title": "Apa setiap subdomain juga dapat 10MB?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/103482"
+  },
+  "Menampilkan Item Todo dan Menandai Todo Selesai": {
+    "discussion_title": "Kenapa pada saat submit tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/238650"
+  },
+  "Menampilkan Item Todo yang Selesai dan Menghapus Todo": {
+    "discussion_title": "Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/201470"
+  },
+  "Event Bubbling dan Capturing": {
+    "discussion_title": "capturing kode javascript",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/226675"
+  },
+  "Menambahkan Event Handler - Membuat event handler onload": {
+    "discussion_title": "Boleh konsultasi mengenai Project Final Exam kah kak ? Saya mengalami error dan udah stuck..",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/205390"
+  },
+  "Form Event": {
+    "discussion_title": "Form Event",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/199680"
+  },
+  "Memasang ESLint": {
+    "discussion_title": "konfigurasi yang didapat berbeda di eslint.json nya?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/105485"
+  },
+  "Latihan: Image Responsive": {
+    "discussion_title": "cara buat image responsive pada gambar hero",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/106882"
+  },
+  "Saran dalam Penerapan TDD": {
+    "discussion_title": "terjadi error pada e2e testing",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/106108"
+  },
+  "Latihan: Cache API": {
+    "discussion_title": "seputar caching",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/180265"
+  },
+  "Membuat Application Shell": {
+    "discussion_title": "mengenai class di project movie",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/156488"
+  },
+  "Input Event - onChange, onCopy, dan onPaste": {
+    "discussion_title": "tombol submit tidak aktif ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257940"
+  },
+  "Ringkasan Testing Aplikasi": {
+    "discussion_title": "Cannot load browser \"chrome\": it is not registered! Perhaps you are missing some plugin?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/107782"
+  },
+  "Pendahuluan Interaktif dengan Event": {
+    "discussion_title": "Apakah seorang backend harus mengerti tentang javascript Dom? ",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/180750"
+  },
+  "Perulangan": {
+    "discussion_title": "Perulangan for of loops",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/189630"
+  },
+  "Web App Manifest": {
+    "discussion_title": "Apakah web manifest bisa diterapkan di web aps berbasis php?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/108017"
+  },
+  "Menampilkan Konten dari API": {
+    "discussion_title": "tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/251950"
+  },
+  "Deklarasi Fungsi": {
+    "discussion_title": "bagaimana cara penulisan yang benar (function)",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/180095"
+  },
+  "Test Drive Development (TDD) Menggunakan Jasmine": {
+    "discussion_title": "kenapa error message di fungsi dan error message di testing harus sama case sensitive",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/114862"
+  },
+  "Jangan Sampai Salah Nama": {
+    "discussion_title": "Error Expected values to be strictly equal: 2 !== 0",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/118155"
+  },
+  "Rahasia Seorang Mata-Mata": {
+    "discussion_title": "Kenapa pada jasmine tidak menggunakan async await saja untuk proses asynchronous ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/110097"
+  },
+  "Color": {
+    "discussion_title": "Mewarnai Teks di dalam pargaraf",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/121170"
+  },
+  "Menambahkan Metode Manipulasi Data Web Storage": {
+    "discussion_title": "Tolong Jelaskan dong TODO APPS itu diambil dari apa?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/123544"
+  },
+  "Memperbaiki CSS": {
+    "discussion_title": "warning dan error",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/197505"
+  },
+  "Kenapa Belajar JavaScript": {
+    "discussion_title": "apa itu front end developer dan back end developer?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/193450"
+  },
+  "Mengubah Konten HTML - Memanipulasi Konten Melalui innerText, innerHTML, dan style.property": {
+    "discussion_title": "script hilang saat refresh browser",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/223960"
+  },
+  "Keuntungan dan Cara Kerja CSS": {
+    "discussion_title": "Apa bedanya stlye menggunakan CSS sama framework seperti Boostrap ?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/112702"
+  },
+  "Kompresi Gambar": {
+    "discussion_title": "kompresi gambar di server vs client lebih baik mana",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/112377"
+  },
+  "Latihan: Web App Manifest": {
+    "discussion_title": "Bagaimana cara melakukan demonstrasi \"add to home screen\" pada PC/Laptop",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/255775"
+  },
+  "Kuis: Pendalaman CSS": {
+    "discussion_title": "Kode untuk menampilkan sticky position tidak bekerja pada tampilan mobile device?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/113752"
+  },
+  "Fixed Positioning": {
+    "discussion_title": "Saya ingin bertanya mengenai materi position fixed",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/126757"
+  },
+  "Membuat Elemen HTML": {
+    "discussion_title": "Menambah properti \"hidden\" di dalam tag html",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/114017"
+  },
+  "Implementasi Web Storage - Menambahkan Item Storage": {
+    "discussion_title": "document.dispatchEvent(new Event(RENDER_EVENT)); untuk apa? ",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/192775"
+  },
+  "Ketika Hampa": {
+    "discussion_title": "muncul error testing di liking dan unliking?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/114457"
+  },
+  "WebSocket": {
+    "discussion_title": "Url websocket",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/114627"
+  },
+  "Pendahuluan Browser Object Model dan Document Object Model": {
+    "discussion_title": "dibagian mana error nya kak",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/237820"
+  },
+  "Ketika Pikiranku Berubah": {
+    "discussion_title": "fungsi dari tobetruthy dan tobefalsy untuk apa?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/199545"
+  },
+  "Service Worker": {
+    "discussion_title": "Penggunaan service worker pada framework js",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/145507"
+  },
+  "Plot Twist": {
+    "discussion_title": "Link JS Fiddle Completed ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/213525"
+  },
+  "Mengimplementasikan Web Storage ke Proyek Todo Apps": {
+    "discussion_title": "Error saat menambahkan 'yang harus dilakukan' ke 'yang sudah dilakukan'",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/239260"
+  },
+  "Memperbaiki dia yang terlupakan": {
+    "discussion_title": "ERROR textContent",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/116837"
+  },
+  "Expression Function": {
+    "discussion_title": "Perbedaan express function dengan menulis function secara biasa (contoh function namaFungsi())",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/117342"
+  },
+  "Menambahkan Elemen HTML ke DOM": {
+    "discussion_title": "tentang mambahkan elemet HTML ke DOM",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/193570"
+  },
+  "Implementasi Web Storage - Mengakses Item Storage": {
+    "discussion_title": "fungsi dari JSON.stringify()?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/196470"
+  },
+  "Implementasi Web Storage - Menghapus Item Storage": {
+    "discussion_title": "Implementasi Web Storage - Menghapus Item Storage",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/184830"
+  },
+  "Tantangan!": {
+    "discussion_title": "Bagaimana menambah filter untuk menampilkan toas/alert",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/205230"
+  },
+  "Menambahkan Fungsionalitas untuk Memuat Data saat Startup": {
+    "discussion_title": "Apa maksud dari kode ini?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/132572"
+  },
+  "Cara JavaScript Mengontrol Website dan Browser": {
+    "discussion_title": "kak itu buatnya dimana?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/186470"
+  },
+  "Session Storage": {
+    "discussion_title": "apa maksud dari const sessionStorageKey = 'PRESS_FREQUENCY';",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/176440"
+  },
+  "Asynchronous Handling dengan Promise": {
+    "discussion_title": "error",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/245070"
+  },
+  "Pengenalan JavaScript Testing": {
+    "discussion_title": "mohon arahannya kurang apa ya?tidak bisa disubmit",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/194365"
+  },
+  "Arrow Function": {
+    "discussion_title": "bagaimana parameter yang benar",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/227115"
+  },
+  "Menambahkan JavaScript di Website": {
+    "discussion_title": "Mohon jelaskan penempatan kode JS dari pernyataan ini.",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/183810"
+  },
+  "Pendahuluan Browser Object Model (BOM)": {
+    "discussion_title": "BOM dan DOM pada setiap browser",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/125457"
+  },
+  "Sebuah Pencarian": {
+    "discussion_title": "searching",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/223600"
+  },
+  "Apa itu Shadow DOM": {
+    "discussion_title": "Pengaruh Shadow DOM dan Custom Element terhadap SEO?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/126547"
+  },
+  "Output": {
+    "discussion_title": "path.resolve() vs path.join()?",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/126727"
+  },
+  "Latihan: Bundle Analyzer": {
+    "discussion_title": "Saya kurang paham dengan webpack",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/128862"
+  },
+  "Spread Operator": {
+    "discussion_title": "Penggunaan Spread",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/163148"
+  },
+  "setTimeout Function": {
+    "discussion_title": "Apa maksud kode blok ini?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/131207"
+  },
+  "Latihan: IndexedDB": {
+    "discussion_title": "Return behaviour",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/131737"
+  },
+  "Latihan: Web Socket": {
+    "discussion_title": "Update Data",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/257305"
+  },
+  "Operator": {
+    "discussion_title": "Comparison Operator",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/244030"
+  },
+  "Application Shell": {
+    "discussion_title": "Membuat login page",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/133197"
+  },
+  "Latihan: Mengatur Viewport, Penggunaan Relative Unit, Ukuran Elemen": {
+    "discussion_title": "Ukuran target element",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/134192"
+  },
+  "Menambahkan Tombol Like pada Halaman Detail": {
+    "discussion_title": "Membuat Function Liker",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/135867"
+  },
+  "Latihan: Kompresi Gambar": {
+    "discussion_title": "Error ketika npm install",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/257945"
+  },
+  "Menggunakan Lazy Loading Image": {
+    "discussion_title": "memahami catatan",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/138907"
+  },
+  "Prinsip Membuat Variables": {
+    "discussion_title": "Nilai pada variabel MILISECONDS_IN_A_DAY",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/139157"
+  },
+  "Font Weight, Font Style, Font Variant, dan Shorthand ": {
+    "discussion_title": "Font-weight, nilai dapat diturunkan pada elemen turunannya?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/213465"
+  },
+  "Apa itu JavaScript": {
+    "discussion_title": "ini kok erorr yah padahal dah bisa",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/197770"
+  },
+  "Mengubah Konten HTML - Menyiapkan Konten": {
+    "discussion_title": "apa arti dari usang atau deprecated ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/204160"
+  },
+  "Responsive Layout": {
+    "discussion_title": "bagaimana dimensi touch memiliki ukuran minimal 44x44px ?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/145777"
+  },
+  "Mendapatkan Data dari WebSocket Server": {
+    "discussion_title": "Websocket server",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/146432"
+  },
+  "Practice: Lazy Loading Image": {
+    "discussion_title": "tidak bisa melakukan import modul lazysizes",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/149998"
+  },
+  "Menetapkan Code Style": {
+    "discussion_title": "Apa bedanya javascript module (export/import) dan common js ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/155418"
+  },
+  "Off Canvas Menu": {
+    "discussion_title": "CSS Selectors",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/180455"
+  },
+  "Skip to Content": {
+    "discussion_title": "skip to content pada detail page dan favorite page tidak berfungsi dengan baik",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/155853"
+  },
+  "Knowledge Check : JavaScript Testing": {
+    "discussion_title": "tolong di koreksi kak kok code saya logika error, padahal sudah benar ketika saya console log",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/202130"
+  },
+  "Latihan: Ubah Gif ke Video": {
+    "discussion_title": "cara install ffmpeg",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/159798"
+  },
+  "Membekukan waktu": {
+    "discussion_title": "gagal melakukan npm install codeceptjs puppeteer --save-dev",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/160043"
+  },
+  "Box Shadow": {
+    "discussion_title": "Gambar yang ada di box-shadow tidak memiliki jarak",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/173673"
+  },
+  "Statement": {
+    "discussion_title": "statement",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/160733"
+  },
+  "Materi Menjadi Front-End Web Developer Expert": {
+    "discussion_title": "Starter project pada submission katalog restaurant, ketika di npm install error, mohon bantuannya",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/198085"
+  },
+  "Pendahuluan Document Object Model (DOM)": {
+    "discussion_title": "Button tidak mau berubah warna , mohon solusinya",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/190500"
+  },
+  "Paragraf": {
+    "discussion_title": "ka mau tanya saya masih bingung apakah wajib menggunakan element tags pada saat menuliskan document",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/165993"
+  },
+  "Text Editor & Terminal": {
+    "discussion_title": "Menggunakan text editor berupa aplikasi lain selain visualstudio",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/167073"
+  },
+  "Macam-Macam Event": {
+    "discussion_title": "event",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/186230"
+  },
+  "Membuat Aplikasi Todo Apps": {
+    "discussion_title": "Todo App Index Array",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/201810"
+  },
+  "Mengubah Callback Menjadi Promise dengan Promisify": {
+    "discussion_title": "Terdapat pesan lain yang muncul saat menampilkan pesan <reject> pada executorFunction",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/213905"
+  },
+  "Glosarium": {
+    "discussion_title": "istilah instance ",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/228125"
+  },
+  "Komentar": {
+    "discussion_title": "pengaruh komentar pada syntax terhadap performa",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/173338"
+  },
+  "Knowledge Check : Functional Programming (FP)": {
+    "discussion_title": "Penjelasan Proses Mengurutkan Nilai Array dengan Menggunakan Array Sort",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/181035"
+  },
+  "Pengenalan Asynchronous": {
+    "discussion_title": "apa itu synchronous dan ?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/174178"
+  },
+  "Menambahkan Event Handler - Menerapkan event handler inline": {
+    "discussion_title": "Hadiah tersembunyi tidak muncul",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/183850"
+  },
+  "Latihan: Module": {
+    "discussion_title": "Error: blocked because of a disallowed mime type (\"\"), menggunakan http-server dan Firefox 102.0.1",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/175705"
+  },
+  "Export Beberapa Nilai pada Node.js": {
+    "discussion_title": "import lebih dari satu nilai",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/176420"
+  },
+  "Pengenalan Penyimpanan Data dengan Web Storage": {
+    "discussion_title": "Bagaimana menyimapan banyak object di dalam satu key localStorage?",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/188835"
+  },
+  "Input Event - Menyiapkan Halaman Website": {
+    "discussion_title": "Mohon bantuannya kak, saya menemui kendala .",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/190775"
+  },
+  "Menambahkan Event Handler - Menerapkan event handler dengan addEventListener()": {
+    "discussion_title": "Parentheses JavaScript",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/185915"
+  },
+  "Sejarah JavaScript": {
+    "discussion_title": "maksud \"distandarisasi\"",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/180680"
+  },
+  "Knowledge Check : Setup Environment": {
+    "discussion_title": "error terus, jadi gagal berkali2",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/184485"
+  },
+  "Anggota BOM: console": {
+    "discussion_title": "Object console termasuk BOM?",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/185110"
+  },
+  "Kuis Browser Object Model dan Document Object Model": {
+    "discussion_title": "Ini kenapa ya kak, padahal udah run di browser bisa tapi ketika disubmit masih tetep error?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/186870"
+  },
+  "Menambahkan Event Handler - Menyiapkan Halaman Website": {
+    "discussion_title": "asal ID #generatebutton di style",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/186920"
+  },
+  "Anggota BOM: prompt()": {
+    "discussion_title": "Perbedaan let dan const",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/193270"
+  },
+  "Chrome DevTools": {
+    "discussion_title": "apakah perlu membeli seluruh perangkat yang dibutuhkan hanya untuk mengujinya.?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/189000"
+  },
+  "Membuat URL Router Sederhana": {
+    "discussion_title": "punulisan ",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/228090"
+  },
+  "Rangkuman Materi": {
+    "discussion_title": "vidio fundamental Java Script",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/252830"
+  },
+  "Header dan Body Request menggunakan XHR": {
+    "discussion_title": "kegunaan X-Auth-Token",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/212895"
+  },
+  "Fraction Unit dan Repeat Notation": {
+    "discussion_title": "Mengapa bisa ada 2 row kotak, sedangkan kita hanya mengatur grid-tamplete-colums saja ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/197090"
+  },
+  "Aksesibilitas Konten": {
+    "discussion_title": "Hamburger menu tidak bisa diakses melalui keyboard",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/197125"
+  },
+  "Mengenal Progressive Web Apps (PWAs)": {
+    "discussion_title": "penerapan web socket",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/197755"
+  },
+  "Kuis: Mencoba Screen Reader": {
+    "discussion_title": "Saya Disabilitas Tuli",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/197790"
+  },
+  "Menampilkan Data dari Database": {
+    "discussion_title": "butoon liked movies tidak tampil pada navbar",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/197880"
+  },
+  "Latihan Implementasi Service Worker dengan Workbox": {
+    "discussion_title": "error saat npm run build",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/228240"
+  },
+  "Pengenalan Node Package Manager": {
+    "discussion_title": "Warning: To load an ES module, set \"type\": \"module\" in the package.json or use the .mjs extension.",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/238620"
+  },
+  "Latihan: Push Notification": {
+    "discussion_title": "Push Notification tidak bekerja saat ditrigger",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/256665"
+  },
+  "Paradigma Functional Programming": {
+    "discussion_title": "parameter name pada method map()",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/225130"
+  },
+  "Memulai Menggunakan NPM": {
+    "discussion_title": "Error saat install package dengan npm",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/200475"
+  },
+  "Input Event - Hasil Akhir": {
+    "discussion_title": "fungsi DOMContentLoaded",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/201770"
+  },
+  "Destructuring Object & Array": {
+    "discussion_title": "Destructing object",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/219955"
+  },
+  "DOM Tree": {
+    "discussion_title": "Apa yang dimaksud dengan node pada DOM",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/207195"
+  },
+  "Latihan: Membuat CI Pipeline menggunakan GitHub Action": {
+    "discussion_title": "Maksud dari -M pada git?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/208350"
+  },
+  "Membangun Fitur Menggunakan TDD": {
+    "discussion_title": "Hasil test random",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/209205"
+  },
+  "Breakpoint": {
+    "discussion_title": "Linknya Salah",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/209620"
+  },
+  "Latihan: Application Shell": {
+    "discussion_title": "button humberger tidak bisa ditekan dan saat memasukkan api tidak terhubung ato eror",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/210610"
+  },
+  "Implementasi Function yang Dihindari": {
+    "discussion_title": "Flagging pada function",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/212650"
+  },
+  "Menutup Koneksi WebSocket": {
+    "discussion_title": "Waktu dan Kondisi Menutup Koneksi",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/212865"
+  },
+  "Combinators: Adjacent SIbling Selector dan General Sibling Selector": {
+    "discussion_title": "Terkait, elemen pertama pada Adjacent Sibling Selector (+), gunanya apa ?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/213395"
+  },
+  "Kasus 1: Segitiga Apa Aku": {
+    "discussion_title": "Apakah alur negatif bisa dipakai dimana saja?",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/213985"
+  },
+  "Aku Bergantung Pada Bayanganmu": {
+    "discussion_title": "Error di like-button-presenter.js",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/214860"
+  },
+  "Hijau Pertama": {
+    "discussion_title": "Memastikan tentang hasil Jasmine",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/221130"
+  },
+  "Pengenalan Kelas Menjadi Front-End Web Developer Expert": {
+    "discussion_title": "error saat running start-dev",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/258145"
+  },
+  "Focusable Element": {
+    "discussion_title": "Praktik terbaik Element CTA \"Get started\"",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/224860"
+  },
+  "Kau Tak Perlu Tahu Rahasiaku": {
+    "discussion_title": "ini kenapa ada error tidak mengenali reading 'view`",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/225300"
+  },
+  "Clean Code": {
+    "discussion_title": "Apa pertimbangan penggunaan object yang berisi fungsi dan class yang berisi static function?",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/225950"
+  },
+  "Yang Mengikat Kita": {
+    "discussion_title": "gagal",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/227815"
+  },
+  "Operasi CRUD pada IndexedDB": {
+    "discussion_title": "Class vs Object",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/228700"
+  },
+  "Margin": {
+    "discussion_title": "Penggunaan Margin Auto",
+    "link_diskusi": "https://www.dicoding.com/academies/315/discussions/229040"
+  },
+  "Workbox": {
+    "discussion_title": "bagaimana mengatasi warning dengan informasi  \"GenerateSW has been called multiple times \" ? ",
+    "link_diskusi": "https://www.dicoding.com/academies/123/discussions/230205"
+  },
+  "Latihan: Membuat CD Pipeline menggunakan Netlify": {
+    "discussion_title": "Chrome Failed runing in Github Actions",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/230420"
+  },
+  "Getting Started with NPM": {
+    "discussion_title": "kepanjangan npm bukanlah  Node Package Manager",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/234090"
+  },
+  "Submission: Proyek Pertama": {
+    "discussion_title": "Kriteria 2: Styling dengan Sass",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/237910"
+  },
+  "Comments": {
+    "discussion_title": "comments ini di seperti apain yak??",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/240060"
+  },
+  "Latihan Refactor: Implementasi Workbox di Movie Catalogue dengan InjectManifest": {
+    "discussion_title": "running project",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/243650"
+  },
+  "Rangkuman Kelas": {
+    "discussion_title": "Route",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/244270"
+  },
+  "Memulai dengan SCSS": {
+    "discussion_title": "error kode ",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/251960"
+  },
+  "Dasar Penggunaan Fetch": {
+    "discussion_title": "Data tidak dapat ditemukan",
+    "link_diskusi": "https://www.dicoding.com/academies/163/discussions/247635"
+  },
+  "Membuat Function dengan Baik": {
+    "discussion_title": "Flagging pada Parameter",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/249205"
+  },
+  "Rangkuman Asynchronous Process": {
+    "discussion_title": "Platform Gajelas banyak kurang nya banyak antriannnn",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/249610"
+  },
+  "Latihan: Menerapkan Firebase Authentication": {
+    "discussion_title": "user Ketika register",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/250095"
+  },
+  "Grid Lines": {
+    "discussion_title": "Cara Konten Grid Berada di Tengah",
+    "link_diskusi": "https://www.dicoding.com/academies/256/discussions/253555"
+  },
+  "Submission: Proyek Akhir": {
+    "discussion_title": "Referensi terkait Menyediakan Fitur Guest User",
+    "link_diskusi": "https://www.dicoding.com/academies/219/discussions/257330"
+  }
+}
